@@ -294,7 +294,7 @@ a.navbar-brand {
 }
 
 .jumbotron {
-  background-image: url("file:///home/sid01/Code/WebDesign/FreeCodeCamp/Proj2_Personal_Portfolio_Page/CSS/jumbotron_image.jpg");
+  background-image: url("ui/jumbotron_image.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
