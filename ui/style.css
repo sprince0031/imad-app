@@ -294,7 +294,7 @@ a.navbar-brand {
 }
 
 .jumbotron {
-  background-image: url("ui/jumbotron_image.jpg");
+  background-image: url("jumbotron_image.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
